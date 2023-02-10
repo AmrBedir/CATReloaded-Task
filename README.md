@@ -1,4 +1,5 @@
 # CATReloaded-Task Repo
+# [CAT Back-end | Entry Level Guide Lectures](https://youtube.com/playlist?list=PLPFr7G-lCvQFAuidF9SF0mX-VqYiVgJaV)
 ---
 # Database Tasks
 
