@@ -1,5 +1,7 @@
 # CATReloaded-Task Repo
 # [CAT Back-end | Entry Level Guide Lectures](https://youtube.com/playlist?list=PLPFr7G-lCvQFAuidF9SF0mX-VqYiVgJaV)
+# [CMU Lectures Slides | Fall 2021](https://15445.courses.cs.cmu.edu/fall2021/slides/)
+# [CMU Lectures Notes | Fall 2021](https://15445.courses.cs.cmu.edu/fall2021/notes/)
 ---
 # Database Tasks
 
@@ -20,4 +22,4 @@
 * [Problem 5 Code](https://github.com/AmrBedir/CATReloaded-Task/blob/main/Week%205%20Tasks/Problems/Problem_Five.sql)
 
 ## CMU Lectures Summaries:
-* [Lecture 1](https://github.com/AmrBedir/CATReloaded-Task/blob/main/Week%204%20Tasks/CAT%20Reloaded%20Week%204%20Theoretical%20Task.pdf)
+* [Lecture 1 Summary](https://github.com/AmrBedir/CATReloaded-Task/blob/main/Week%204%20Tasks/CAT%20Reloaded%20Week%204%20Theoretical%20Task.pdf)
