@@ -18,7 +18,7 @@
 
 ## CMU Lectures Summaries:
 * [Lecture 1 Summary](https://github.com/AmrBedir/CATReloaded-Task/blob/main/Week%204%20Tasks/CAT%20Reloaded%20Week%204%20Theoretical%20Task.pdf)
-* [Lecture 2 Summary](https://github.com/AmrBedir/CATReloaded-Task) (Not Ready Yet!)
+* [Lecture 2 Summary](https://github.com/AmrBedir/CATReloaded-Task/blob/main/Week%205%20Tasks/CAT%20Reloaded%20Week%205%20Theoretical%20Task.pdf)
 
 
 # Some References, Take a look, Bro!
