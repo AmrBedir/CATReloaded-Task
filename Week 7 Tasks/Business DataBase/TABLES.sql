@@ -4,7 +4,7 @@ CREATE TABLE department
      NAME VARCHAR(30) NOT NULL
   );
 
-CREATE TABLE employee
+CREATE TABLE employees
   (
      id           INT PRIMARY KEY NOT NULL,
      email        VARCHAR(30) NOT NULL,
@@ -23,7 +23,7 @@ CREATE TABLE admins
      FOREIGN KEY (employeeid) REFERENCES employee(id)
   );
 
-CREATE TABLE customer
+CREATE TABLE customers
   (
      id          INT PRIMARY KEY NOT NULL,
      fullname    VARCHAR(60) NOT NULL,
