@@ -1,5 +1,8 @@
 # Small Business DB
 
+![Database for a small business Website](./small_db_schema.jpg)
+
+## TABLES CREATION
 
 ```sql
 CREATE TABLE department
@@ -57,7 +60,7 @@ CREATE TABLE orders
      FOREIGN KEY (productid) REFERENCES products(id)
   ); 
 ```
-
+## TABLES INS
 
 ```sql
 -- Department
