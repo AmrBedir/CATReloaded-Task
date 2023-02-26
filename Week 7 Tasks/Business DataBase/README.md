@@ -76,7 +76,7 @@ INSERT INTO employees VALUES (2,'amr.bedir.1@gmail.com','AmrBedir',3000,2);
 INSERT INTO employees VALUES (3,'hind@gmail.com','Hind',3000,3);
 INSERT INTO employees VALUES (4,'leena@yahoo.com','Leena',3000,4);
 INSERT INTO employees VALUES (5,'hajar@gmail.com','Hajar',3000,5);
-INSERT INTO employee VALUES (6,'nadia@mail.com','Nadia',3000,6);
+INSERT INTO employees VALUES (6,'nadia@mail.com','Nadia',3000,6);
 -- Admins
 INSERT INTO admins VALUES (1,'admia@amrbedir.me','QWERTY23',1);
 INSERT INTO admins VALUES (2,'info@amrbedir.me','DROWSSAP',2);
