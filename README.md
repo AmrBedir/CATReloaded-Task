@@ -1,5 +1,7 @@
 # Database Tasks
 
+![CAT Reloaded](./cover.jpg)
+
 ## SQL Code Tasks:
 ### First Week (Week 4):
  
