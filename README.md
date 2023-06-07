@@ -40,3 +40,6 @@
 * [CMU 15-445/645 | Fall 2021 Course](https://15445.courses.cs.cmu.edu/fall2021/)
 * [CMU Lectures Slides | Fall 2021](https://15445.courses.cs.cmu.edu/fall2021/slides/)
 * [CMU Lectures Notes | Fall 2021](https://15445.courses.cs.cmu.edu/fall2021/notes/)
+
+## Give a Star! ⭐️
+If you find this repository useful, please give it a star. Thanks!
